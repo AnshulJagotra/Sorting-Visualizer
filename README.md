@@ -21,7 +21,4 @@ It compares the time taken by the different algorithm for sorting the array.
 
 
 
-[Back To The Top](#read-me-template)
-
----
 
